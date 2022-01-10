@@ -13,7 +13,7 @@ with *M. Ca’Zorzi*, *A. Cap* and *M. Rubaszek*
   [ECB Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2358~4382d88430.en.pdf), 
   [Replication files](https://web.sgh.waw.pl/~mrubas/Publications/MatlabReplicationCodesEER.zip), 
   [Slides for ISF21](https://github.com/andrejmijakovic/andrejmijakovic.github.io/blob/master/_files/slides_ISF21.pdf)   
-  Coverage: [Econbrowser](http://econbrowser.com/archives/2020/02/guest-contribution-the-predictive-power-of-equilibrium-exchange-rates)  
+  Coverage: [Econbrowser](http://econbrowser.com/archives/2020/02/guest-contribution-the-predictive-power-of-equilibrium-exchange-rates), [Macrohive](https://macrohive.com/deep-dives/which-fx-valuation-models-work-best/)
 
     <font size="2"><em> Abstract: In this paper we evaluate the predictive power of the three most popular equilibrium exchange rate concepts: Purchasing Power Parity (PPP), Behavioral Equilibrium Exchange Rate (BEER) and the Macroeconomic Balance (MB) approach. We show that there is a clear trade-off between storytelling and forecast accuracy. The PPP model offers little economic insight, but has good predictive power. The BEER framework, which links exchange rates to fundamentals, does not deliver forecasts of better quality than PPP. The MB approach has the richest economic interpretation, but performs poorly in forecasting terms. Sensitivity analysis confirms that changing the composition of fundamentals in the BEER model or modifying key underlying assumptions in the MB model does not generally enhance their predictive power.</em><font>
 
