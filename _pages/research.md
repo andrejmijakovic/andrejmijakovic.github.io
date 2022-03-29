@@ -18,7 +18,8 @@ with *M. Ca’Zorzi*, *A. Cap* and *M. Rubaszek*
     <font size="2"><em> Abstract: In this paper we evaluate the predictive power of the three most popular equilibrium exchange rate concepts: Purchasing Power Parity (PPP), Behavioral Equilibrium Exchange Rate (BEER) and the Macroeconomic Balance (MB) approach. We show that there is a clear trade-off between storytelling and forecast accuracy. The PPP model offers little economic insight, but has good predictive power. The BEER framework, which links exchange rates to fundamentals, does not deliver forecasts of better quality than PPP. The MB approach has the richest economic interpretation, but performs poorly in forecasting terms. Sensitivity analysis confirms that changing the composition of fundamentals in the BEER model or modifying key underlying assumptions in the MB model does not generally enhance their predictive power.</em><font>
 
 ## Work in progress
-- **Persistent MPC asymmetries along the wealth distribution**
+- **MPC asymmetries with behavioural agents**
+- **Equity duration and monetary policy transmission**, with *J. Graeb*
 - **Unconventional monetary policy communication**, with *J. Mazza*
 
 ## Policy work
