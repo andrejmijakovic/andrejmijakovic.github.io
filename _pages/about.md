@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hi there!**
+# Welcome!
 
 I am a PhD Student in Economics at the European University Institute under the supervision of Edouard Challe and Russell Cooper.
 
