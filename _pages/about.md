@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hi there!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**Hi there!**
 
 I am a PhD Student in Economics at the European University Institute under the supervision of Edouard Challe and Russell Cooper.
 
