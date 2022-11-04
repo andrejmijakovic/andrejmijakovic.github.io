@@ -72,7 +72,13 @@ social:
 
 
 # Analytics
-google_analytics   : "G-6MQRQ8J1G5"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6MQRQ8J1G5"
+    anonymize_ip: false # default
+
+# google_analytics   : "G-6MQRQ8J1G5"
 
 
 # Site Author
