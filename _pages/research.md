@@ -10,6 +10,7 @@ author_profile: true
     <font size="2"> I use survey questions on spending in hypothetical scenarios to study differences in marginal propensities to consume out of positive and negative income shocks. I find a sizeable asymmetry in spending responses driven by large adjustments following income losses compared to small adjustments following income gains. This asymmetry occurs irrespective of the position in the wealth distribution and is not driven by liquidity constraints. As such, it stands in stark contrast to predictions of traditional models of consumption behaviour. I develop a model with dissaving-averse households, a behavioural feature consistent with mental accounting, that rationalizes this asymmetry and simultaneously generates low MPCs out of income news, low MPCs out of wealth and high MPCs out of income gains for households that are not liquidity-constrained. I show through the lens of a quantitative model that asymmetric MPCs dampen the effectiveness of redistributive fiscal policy.<font>
 
 ## Work in progress
+- **Domestic inequality and global imbalances**, with [*J. Mazza*](https://www.janmazza.com/)
 - **Equity duration and monetary policy transmission**, with *J. Graeb*
 
 ## Publications
