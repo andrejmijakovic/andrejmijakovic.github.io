@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD Student in Economics at the European University Institute under the supervision of Edouard Challe and Russell Cooper.
+I am a PhD Student in Economics at the European University Institute in Florence, Italy. My thesis advisors are Edouard Challe and Russell Cooper. I am also a Post-Doctoral fellow at the Department of Economics and Finance of LUISS.
 
 My research interests are in international macro-finance, household finance and behavioural macro. I study the aggregate implications of heterogeneity in households' consumption-savings behaviour using both standard and behavioural theories.
 
