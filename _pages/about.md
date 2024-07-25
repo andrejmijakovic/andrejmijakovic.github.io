@@ -14,4 +14,4 @@ I am a PhD Student in Economics at the European University Institute in Florence
 
 My research interests are in international macro-finance, household finance and behavioural macro. I study the aggregate implications of heterogeneity in households' consumption-savings behaviour using both standard and behavioural theories.
 
-You can find my CV[here](https://andrejmijakovic.github.io/assets/CV_July2024_AndrejMijakovic.pdf) and reach me at andrej.mijakovic@eui.eu.
+You can find my CV [here](https://andrejmijakovic.github.io/assets/CV_July2024_AndrejMijakovic.pdf) and reach me at andrej.mijakovic@eui.eu.
