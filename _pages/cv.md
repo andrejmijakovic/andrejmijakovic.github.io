@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 You can find my CV
-[here](https://andrejmijakovic.github.io/assets/CV_Feb2024_AndrejMijakovic.pdf).
+[here](https://andrejmijakovic.github.io/assets/CV_July2024_AndrejMijakovic.pdf).
