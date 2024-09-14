@@ -12,7 +12,7 @@ author_profile: true
    <p style="font-size: 14px; line-height: 1.2;"> Presented at: NYU Student Macro Lunch 2022, 4th Behavioral Macroeconomics Workshop 2022, MMF 2022, CEPR European Conference on Household Finance 2022, 15th VPDE PhD Workshop 2022, NOeG Winter Workshop 2022, XXVI Workshop on Dynamic Macroeconomics in Vigo 2023, EEA-ESEM 2023, 2nd PhD and Post-Docs Workshop in Naples 2023 </p>  
 
 - [**The Macroeconomic Implications of Coholding**](https://andrejmijakovic.github.io/assets/draft_mprd_jul24.pdf), with [*Michael Boutros*](https://michaelboutros.com/) [July 24] <br/>
-  [Bank of Canada Staff Working Paper version](https://www.bankofcanada.ca/wp-content/uploads/2024/05/swp2024-16.pdf) <br/>
+  [Bank of Canada Staff WP](https://www.bankofcanada.ca/wp-content/uploads/2024/05/swp2024-16.pdf) <br/>
      <p style="font-size: 16px"> In the U.S., over 25% of households are coholders who simultaneously borrow on credit cards and hold cash. This generates rich marginal distributions of gross positions that underpin the distribution of net wealth often used to calibrate macroeconomic models. We show that, beyond constructing net wealth, gross positions of liquid assets and debt are important determinants of how households consume, save, and repay debt in response to income shocks. We build a model that generates aggregate distributions and household behavior in line with the data, and use it to study the implications of coholding for fiscal and monetary policy.</p>
     <p style="font-size: 14px; line-height: 1.2;"> Presented at (* if by coauthor): Bank of Canada*, 5th Biennial Consumer Finance and Macroeconomics Conference 2023*, EEA-ESEM 2023, Australian National University*, 2023 OzMac Workshop*, University of Sydney*, Reserve Bank of Australia*, Toronto Metropolitan University*, E1 Workshop in Quantitative Macroeconomics 2024, Oslo Macro Conference 2024, 2nd Arne Ryde Workshop 2024*, Lisbon Macro Workshop 2024* </p>  
 
@@ -29,7 +29,7 @@ author_profile: true
 - [**The Reliability of Equilibrium Exchange Rate Models: A Forecasting Perspective**](https://www.ijcb.org/journal/ijcb22q3a6.pdf),   
 with *Michele Ca’Zorzi*, *Adam Cap* and *Michal Rubaszek*   
 *International Journal of Central Banking* (2022)     
-  [ECB Working paper version](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2358~4382d88430.en.pdf), 
+  [ECB WP](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2358~4382d88430.en.pdf), 
   [Replication files](https://web.sgh.waw.pl/~mrubas/Publications/MatlabReplicationCodesEER.zip), 
   [Slides for ISF21](https://andrejmijakovic.github.io/assets/slides_ISF21.pdf)   
   Coverage: [Econbrowser](http://econbrowser.com/archives/2020/02/guest-contribution-the-predictive-power-of-equilibrium-exchange-rates), [Macrohive](https://macrohive.com/deep-dives/which-fx-valuation-models-work-best/) <br/>
