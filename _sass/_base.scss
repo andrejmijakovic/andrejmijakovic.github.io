@@ -112,11 +112,12 @@ blockquote {
 /* links */
 
 a {
+
+  color:  darkblue;
+
   &:focus {
     @extend %tab-focus;
   }
-  
-  color:  darkblue;
 
   &:hover,
   &:active {
