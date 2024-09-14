@@ -115,6 +115,8 @@ a {
   &:focus {
     @extend %tab-focus;
   }
+  
+  color:  darkblue;
 
   &:hover,
   &:active {
