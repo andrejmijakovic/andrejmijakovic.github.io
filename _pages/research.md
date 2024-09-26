@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+
+## Job Market Paper
+- **Income Inequality and the Rise of Risky Capital** [Draft coming soon]<br/>
+   <p style="font-size: 16px"> I study how income inequality shapes the composition of firms by changing the level and composition of aggregate asset demand. Because higher-income households have higher saving rates and riskier asset portfolios, the degree of income inequality affects the allocation of resources between households with different savings behaviour. I show empirically that higher income inequality is associated with a higher aggregate share of risky assets and lower risk premia. Using a quantitative model with heterogeneous households and firms, I quantify how the sharp rise in income inequality in the United States since the 1980s tilted household portfolios towards riskier assets and shifted the firm distribution towards riskier but more productive firms. The model can account for several macro-finance trends, including the secular decrease in the risk-free rate and the relatively stable return to capital. </p>
+
 ## Working papers
 - [**Marginal Propensities to Consume with Mental Accounting**](https://andrejmijakovic.github.io/assets/draft_mpc_apr24.pdf) [April 24] <br/>
     [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603292) <br/>
@@ -21,7 +26,6 @@ author_profile: true
     <p style="font-size: 14px; line-height: 1.2;"> Presented at (* if by coauthor): 12th PhD Student Conference on International Macroeconomics 2023*, European Central Bank IPA Economic Meeting, Bank for International Settlements Research Seminar, 2023 Annual Meeting of the Central Bank Research Association - CEBRA*, 23rd RIEF Doctoral Meeting 2024, 27th Theories and Methods in Macro - T2M 2024*, PSE-CEPR Policy Forum 2024*, UCL Stone Center PhD Conference on Income and Wealth Inequality 2024*, EEA-ESEM 2024 </p>
 
 ## Work in progress
-- **Income Inequality and the Rise of Risky Capital**
 - **Central Bank Communication and Media Coverage**, with *Fiorella De Fiore, Alexis Maurin and Damiano Sandri*
 - **Equity Duration and Monetary Policy Transmission**, with *Johannes Graeb*
 
