@@ -27,6 +27,7 @@ author_profile: true
 
 ## Work in progress
 - **Central Bank Communication and Media Coverage**, with *Fiorella De Fiore, Alexis Maurin and Damiano Sandri*
+- **Cross-country Trends in Income Inequality: Differences in Permanent Income vs Income Risk**, with *Jan Mazza*
 - **Equity Duration and Monetary Policy Transmission**, with *Johannes Graeb*
 
 ## Publications
