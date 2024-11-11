@@ -9,6 +9,7 @@ author_profile: true
 ## Job Market Paper
 - **Income Inequality and the Rise of Risky Capital** [Draft coming soon]<br/>
    <p style="font-size: 16px"> I study how income inequality shapes households’ demand for different assets in the economy and, ultimately, the composition of firms. Because higher-income households hold riskier asset portfolios, the distribution of income affects the allocation of resources across households with different risk-bearing capacities. Using a quantitative heterogeneous agent model, I show that the sharp  rise in income inequality in the United States since the 1980s tilted household portfolios towards riskier assets and shifted the firm distribution towards riskier but more productive firms. This reallocation of capital raised overall productivity and benefitted low-income households through higher wage rates. The model can account for several macro-finance trends, including the secular decrease in the risk-free rate and the stable average return to capital through a capital composition effect. </p>
+   <p style="font-size: 14px; line-height: 1.2;"> Presented at: Paris School of Economics Macro Workshop </p>  
 
 ## Working papers
 - [**Marginal Propensities to Consume with Mental Accounting**](https://andrejmijakovic.github.io/assets/draft_mpc_apr24.pdf) [April 24] <br/>

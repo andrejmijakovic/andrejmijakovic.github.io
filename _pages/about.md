@@ -14,7 +14,7 @@ I am a PhD Student in Economics at the European University Institute in Florence
 
 During my PhD studies, I visited New York University, the Bank for International Settlements and the European Central Bank.
 
-My research interests are in quantitative macroeconomics, household finance, and behavioural macro. I study the aggregate implications of heterogeneity in households' consumption-savings behaviour using both standard and behavioural theories. In my job market paper, I analyse how income inequality shapes the composition of firms by changing the level and composition of aggregate household asset demand. 
+My research interests are in quantitative macroeconomics, household finance, and behavioural macro. I study the aggregate implications of heterogeneity in households' consumption-savings behaviour using both standard and behavioural theories. In my job market paper, I analyse how income inequality shapes households’ demand for different assets in the economy and, ultimately, the composition of firms. 
 
 **I will be on the 2024-2025 academic Job Market.**
 
