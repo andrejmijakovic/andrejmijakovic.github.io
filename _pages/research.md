@@ -28,7 +28,8 @@ author_profile: true
 
 - [**Monetary policy in the news: communication pass-through and inflation expectations**](https://andrejmijakovic.github.io/assets/draft_cb_media_dec24.pdf), with [*Fiorella De Fiore*](https://www.bis.org/author/fiorella_de_fiore.htm), *Alexis Maurin* and [*Damiano Sandri*](https://sites.google.com/site/damianosandri) [December 24] <br/>
   [BIS WP](https://www.bis.org/publ/work1231.pdf),
-  [CEPR DP](https://cepr.org/publications/dp19748) <br/>
+  [CEPR DP](https://cepr.org/publications/dp19748),
+   [VoxEU](https://cepr.org/voxeu/columns/monetary-policy-news-fomcs-media-coverage-and-inflation-expectations) <br/>
    <p style="font-size: 16px"> We analyse the media’s role in channelling information about the Fed’s monetary policy stance to the public. Using LLMs, we find a tight correspondence between FOMC communication and media coverage, although with significant variation over time. The communication pass-through weakened during the ZLB period and improved with the introduction of press conferences, which now exert strong influence on the media. Media coverage effects households’ inflation expectations, particularly when inflation is high and volatile, while we do not detect a direct impact of FOMC communication. This underscores the media’s crucial function in channelling central banks’ communication to the public. </p>
 
 ## Work in progress
