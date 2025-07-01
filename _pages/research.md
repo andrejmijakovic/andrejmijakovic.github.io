@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper
-- [**Income Inequality and the Rise of Risky Capital**](https://andrejmijakovic.github.io/research/jmp.pdf)<br/>
+- [**Income Inequality and the Rise of Risky Capital**](https://andrejmijakovic.github.io/research/jmp.pdf) [Dec 24] <br/>
    <p style="font-size: 16px"> This paper shows that the rise in labour income inequality since the 1980s can jointly explain four prominent macro-finance trends: the rise in the wealth-to-income ratio and the share of risky assets in household portfolios, the decline in the risk-free interest rate, and the stability of the return to capital. I develop an incomplete markets model with endogenous portfolio choice that captures two salient dimensions of cross-sectional household savings heterogeneity: wealth-to-income ratios and risky asset shares are increasing in labor income. I show that higher income inequality raises asset demand, in particular for risky assets, and reallocates capital towards more productive firms, raising aggregate productivity. Whereas both the risk-free and the risky return decrease in response to higher income inequality, the weighted average return remains stable due to portfolio reallocation towards risky capital. The model predictions are validated by cross-country evidence showing that higher income inequality is associated with a larger share of risky assets and lower risk premia. </p>
 
 ## Working papers
