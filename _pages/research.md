@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-## Job Market Paper
+
+## Working papers
 - [**Income Inequality and the Rise of Risky Capital**](https://andrejmijakovic.github.io/research/jmp.pdf) [Dec 24] <br/>
    <p style="font-size: 16px"> This paper shows that the rise in labour income inequality since the 1980s can jointly explain four prominent macro-finance trends: the rise in the wealth-to-income ratio and the share of risky assets in household portfolios, the decline in the risk-free interest rate, and the stability of the return to capital. I develop an incomplete markets model with endogenous portfolio choice that captures two salient dimensions of cross-sectional household savings heterogeneity: wealth-to-income ratios and risky asset shares are increasing in labor income. I show that higher income inequality raises asset demand, in particular for risky assets, and reallocates capital towards more productive firms, raising aggregate productivity. Whereas both the risk-free and the risky return decrease in response to higher income inequality, the weighted average return remains stable due to portfolio reallocation towards risky capital. The model predictions are validated by cross-country evidence showing that higher income inequality is associated with a larger share of risky assets and lower risk premia. </p>
 
-## Working papers
 - [**Marginal Propensities to Consume with Mental Accounting**](https://andrejmijakovic.github.io/assets/draft_mpc_apr24.pdf) [April 24] <br/>
     [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603292) <br/>
    <p style="font-size: 16px"> The empirical literature studying marginal propensities to consume (MPCs) has identified a set of puzzles that are difficult to reconcile with traditional theories of consumption behaviour. This paper proposes a model of dissaving-averse households, a behavioural feature consistent with mental accounting, that addresses several of these puzzles jointly. The model generates high MPCs out of income gains, low MPCs out of income news, low MPCs out of wealth and asymmetric MPCs, i.e. stronger consumption responses to income losses than to income gains, for highliquidity households. In support of this prediction, I provide empirical evidence for the existence of pervasive MPC asymmetries. I show through the lens of a quantitative life-cycle model with mental accounting preferences that asymmetric MPCs dampen the effectiveness of redistributive fiscal policy. </p> 
