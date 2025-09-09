@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Teaching
+## Courses
 
 - **Asset Pricing**  
   *Teaching Assistant to Prof. Nicola Borri and Francesco Lippi, RoME Masters Course, Autumn 2024*
