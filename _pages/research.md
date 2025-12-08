@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working papers
 
-  [**Marginal Propensities to Consume with Mental Accounting**](https://andrejmijakovic.github.io/assets/draft_mpc_sep25.pdf) [September 25] <br/>
+- [**Marginal Propensities to Consume with Mental Accounting**](https://andrejmijakovic.github.io/assets/draft_mpc_sep25.pdf) [September 25] <br/>
     [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603292) <br/>
     R&R at Journal of the European Economic Association <br/>
    <p style="font-size: 16px"> The empirical literature on marginal propensities to consume (MPCs) has identified several puzzles that are difficult to reconcile with standard theories of consumption. This paper proposes a model of dissaving-averse households, a behavioural feature consistent with mental accounting, that accounts for these puzzles jointly. The model generates high MPCs out of income, low MPCs out of income news and wealth, and asymmetric MPCs, i.e. stronger responses to income losses than to gains, for high-liquidity households. A quantitative life-cycle model with mental accounting preferences shows that asymmetric MPCs weaken the effectiveness of redistributive fiscal policy.  </p> 
