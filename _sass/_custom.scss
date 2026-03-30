@@ -1,8 +1,12 @@
 .paper {
-  margin-bottom: 2em;
-  padding: 1em 1.2em;
+  margin-bottom: 1.2em;
+  padding: 0.8em 1.2em;
   border-left: 3px solid #e2661a;
   background-color: #fafafa;
+
+  &:first-of-type {
+    margin-top: 0.5em;
+  }
 
   .date {
     color: #888;
