@@ -1,0 +1,17 @@
+.paper {
+  margin-bottom: 1.5em;
+
+  details {
+    summary {
+      cursor: pointer;
+      font-size: 0.9em;
+      color: #494e52;
+    }
+
+    p {
+      font-size: 0.9em;
+      margin-top: 0.5em;
+      color: #555;
+    }
+  }
+}
