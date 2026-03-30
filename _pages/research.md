@@ -59,11 +59,11 @@ with <a href="https://www.bis.org/author/fiorella_de_fiore.htm"><em>Fiorella De 
 
 ## Work in progress
 
-<div class="paper">
+<div class="paper compact">
 <strong>Decomposing Cross-Country Trends in Income Inequality</strong>, with <a href="https://www.janmazza.com/"><em>Jan Mazza</em></a>
 </div>
 
-<div class="paper">
+<div class="paper compact">
 <strong>Equity Duration and Monetary Policy Transmission</strong>, with <em>Johannes Graeb</em>
 </div>
 

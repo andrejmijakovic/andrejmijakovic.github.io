@@ -18,7 +18,7 @@
     display: inline-block;
     font-size: 0.85em;
     font-style: italic;
-    color: #e2661a;
+    color: #777;
   }
 
   .links {
@@ -44,4 +44,9 @@
       color: #555;
     }
   }
+}
+
+.paper.compact {
+  margin-bottom: 0.5em;
+  padding: 0.4em 1.2em;
 }
