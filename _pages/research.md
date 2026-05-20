@@ -30,14 +30,6 @@ with <a href="https://michaelboutros.com/"><em>Michael Boutros</em></a> <br/>
 </div>
 
 <div class="paper">
-<a href="https://andrejmijakovic.github.io/research/jmp.pdf"><strong>Income Inequality and the Rise of Risky Capital</strong></a> <span class="date">August 2025</span>
-<details>
-<summary>Abstract</summary>
-<p>This paper shows that the rise in labour income inequality since the 1980s can jointly explain four prominent macro-finance trends: the rise in the wealth-to-income ratio and the share of risky assets in household portfolios, the decline in the risk-free interest rate, and the stability of the return to capital. I develop an incomplete markets model with endogenous portfolio choice that captures two salient dimensions of cross-sectional household savings heterogeneity: wealth-to-income ratios and risky asset shares are increasing in labor income. I show that higher income inequality raises asset demand, in particular for risky assets, and reallocates capital towards more productive firms, raising aggregate productivity. Whereas both the risk-free and the risky return decrease in response to higher income inequality, the weighted average return remains stable due to portfolio reallocation towards risky capital. The model predictions are validated by cross-country evidence showing that higher income inequality is associated with a larger share of risky assets and lower risk premia.</p>
-</details>
-</div>
-
-<div class="paper">
 <a href="https://andrejmijakovic.github.io/assets/mazza_mijakovic_inequality_imbalances_dec25.pdf"><strong>Domestic Inequality and Global Imbalances</strong></a> <span class="date">December 2025</span> <br/>
 with <a href="https://www.janmazza.com/"><em>Jan Mazza</em></a> <br/>
 <span class="links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5707243">SSRN</a></span>
@@ -56,6 +48,15 @@ with <a href="https://www.bis.org/author/fiorella_de_fiore.htm"><em>Fiorella De 
 <p>We analyse the media's role in channelling information about the Fed's monetary policy stance to the public. Using LLMs, we find a tight correspondence between FOMC communication and media coverage, although with significant variation over time. The communication pass-through weakened during the ZLB period and improved with the introduction of press conferences, which now exert strong influence on the media. Media coverage affects households' inflation expectations, particularly when inflation is high and volatile, while we do not detect a direct impact of FOMC communication. This underscores the media's crucial function in channelling central banks' communication to the public.</p>
 </details>
 </div>
+
+<div class="paper">
+<strong>Income Inequality and the Rise of Risky Capital</strong> <span class="status">New draft coming soon</span>class="date">August 2025</span>
+<details>
+<summary>Abstract</summary>
+<p>I document that the rise in U.S. income inequality since the 1980s coincided with a marked increase in the aggregate share of risky assets in household portfolios. Since higher-income households hold disproportionately risky portfolios, a shift in income toward the top mechanically raises aggregate exposure to risk. I propose a mechanism in which non-homothetic saving motives generate decreasing relative risk aversion, implying that higher income concentration raises aggregate risktaking. Embedding this mechanism in an incomplete-markets general equilibrium model with firm heterogeneity, I show that higher inequality reallocates capital toward riskier, more productive firms, increasing aggregate productivity. The model jointly accounts for a substantial share of the rise in the wealth–income ratio and risky asset share, and the decline in safe interest rates and risk premia.</p>
+</details>
+</div>
+
 
 ## Work in progress
 
