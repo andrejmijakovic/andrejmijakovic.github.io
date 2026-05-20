@@ -50,7 +50,7 @@ with <a href="https://www.bis.org/author/fiorella_de_fiore.htm"><em>Fiorella De 
 </div>
 
 <div class="paper">
-<strong>Income Inequality and the Rise of Risky Capital</strong> <span class="status">New draft coming soon</span>class="date">August 2025</span>
+<strong>Income Inequality and the Rise of Risky Capital</strong> <span class="status">New draft coming soon [August 2025]</span>
 <details>
 <summary>Abstract</summary>
 <p>I document that the rise in U.S. income inequality since the 1980s coincided with a marked increase in the aggregate share of risky assets in household portfolios. Since higher-income households hold disproportionately risky portfolios, a shift in income toward the top mechanically raises aggregate exposure to risk. I propose a mechanism in which non-homothetic saving motives generate decreasing relative risk aversion, implying that higher income concentration raises aggregate risktaking. Embedding this mechanism in an incomplete-markets general equilibrium model with firm heterogeneity, I show that higher inequality reallocates capital toward riskier, more productive firms, increasing aggregate productivity. The model jointly accounts for a substantial share of the rise in the wealth–income ratio and risky asset share, and the decline in safe interest rates and risk premia.</p>
