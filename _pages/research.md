@@ -20,6 +20,17 @@ author_profile: true
 </div>
 
 <div class="paper">
+<a href="https://andrejmijakovic.github.io/assets/mazza_mijakovic_inequality_imbalances_dec25.pdf"><strong>Domestic Inequality and Global Imbalances</strong></a> <span class="date">December 2025</span> <br/>
+with <a href="https://www.janmazza.com/"><em>Jan Mazza</em></a> <br/>
+<span class="status">R&R at Journal of Political Economy Macroeconomics </span> <br/>
+<span class="links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5707243">SSRN</a></span>
+<details>
+<summary>Abstract</summary>
+<p>We document a robust positive relationship between income inequality and current account balances. In advanced economies, a one percentage point increase in the share of disposable income held by the top 1 percent is associated with a 0.8 percentage point increase in the current account balance. This relation is driven by inequality in the permanent component of income and operates primarily through higher private saving rather than changes in investment. We rationalize these findings using a tractable two-country heterogeneous agent model with non-homothetic preferences, where saving rates increase with permanent income. The model predicts capital flows from unequal to equal countries and helps explain the observed co-movement between inequality and global imbalances since the 1980s.</p>
+</details>
+</div>
+
+<div class="paper">
 <a href="https://andrejmijakovic.github.io/assets/draft_mprd_sep25.pdf"><strong>The Macroeconomic Implications of Coholding</strong></a> <span class="date">September 2025</span> <br/>
 with <a href="https://michaelboutros.com/"><em>Michael Boutros</em></a> <br/>
 <span class="links"><a href="https://www.bankofcanada.ca/wp-content/uploads/2024/05/swp2024-16.pdf">Bank of Canada Staff WP</a></span>
@@ -29,15 +40,7 @@ with <a href="https://michaelboutros.com/"><em>Michael Boutros</em></a> <br/>
 </details>
 </div>
 
-<div class="paper">
-<a href="https://andrejmijakovic.github.io/assets/mazza_mijakovic_inequality_imbalances_dec25.pdf"><strong>Domestic Inequality and Global Imbalances</strong></a> <span class="date">December 2025</span> <br/>
-with <a href="https://www.janmazza.com/"><em>Jan Mazza</em></a> <br/>
-<span class="links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5707243">SSRN</a></span>
-<details>
-<summary>Abstract</summary>
-<p>We document a robust positive relationship between income inequality and current account balances. In advanced economies, a one percentage point increase in the share of disposable income held by the top 1 percent is associated with a 0.8 percentage point increase in the current account balance. This relation is driven by inequality in the permanent component of income and operates primarily through higher private saving rather than changes in investment. We rationalize these findings using a tractable two-country heterogeneous agent model with non-homothetic preferences, where saving rates increase with permanent income. The model predicts capital flows from unequal to equal countries and helps explain the observed co-movement between inequality and global imbalances since the 1980s.</p>
-</details>
-</div>
+
 
 <div class="paper">
 <a href="https://andrejmijakovic.github.io/assets/draft_cb_media_dec24.pdf"><strong>Monetary policy in the news: communication pass-through and inflation expectations</strong></a> <span class="date">December 2024</span> <br/>
