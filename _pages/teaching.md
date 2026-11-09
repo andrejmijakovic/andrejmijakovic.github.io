@@ -8,9 +8,9 @@ permalink: /teaching/
 
 - **Macroeconomics B (undergraduate)**  
 
-- **Macro-Finance (Master's)**  
+- **Macro-Finance (Master)**  
 
-- **Topics in Macro-Finance (Master's)**  
+- **Topics in Macro-Finance (Master)**  
 
 
 <!-- - **Asset Pricing**  
