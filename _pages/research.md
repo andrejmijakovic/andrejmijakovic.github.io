@@ -43,7 +43,7 @@ with <a href="https://michaelboutros.com/"><em>Michael Boutros</em></a> <br/>
 
 
 <div class="paper">
-<a href="https://andrejmijakovic.github.io/assets/draft_cb_media_nov2624.pdf"><strong>Monetary policy in the news: communication pass-through and inflation expectations</strong></a> <span class="date">November 2026</span> <br/>
+<a href="https://andrejmijakovic.github.io/assets/draft_cb_media_nov26.pdf"><strong>Monetary policy in the news: communication pass-through and inflation expectations</strong></a> <span class="date">November 2026</span> <br/>
 with <a href="https://www.bis.org/author/fiorella_de_fiore.htm"><em>Fiorella De Fiore</em></a>, <em>Alexis Maurin</em> and <a href="https://sites.google.com/site/damianosandri"><em>Damiano Sandri</em></a> <br/>
 <span class="links"><a href="https://www.bis.org/publ/work1231.pdf">BIS WP</a> · <a href="https://cepr.org/publications/dp19748">CEPR DP</a> · <a href="https://cepr.org/voxeu/columns/monetary-policy-news-fomcs-media-coverage-and-inflation-expectations">VoxEU</a></span>
 <details>
