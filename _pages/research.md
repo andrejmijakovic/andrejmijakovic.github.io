@@ -43,12 +43,12 @@ with <a href="https://michaelboutros.com/"><em>Michael Boutros</em></a> <br/>
 
 
 <div class="paper">
-<a href="https://andrejmijakovic.github.io/assets/draft_cb_media_dec24.pdf"><strong>Monetary policy in the news: communication pass-through and inflation expectations</strong></a> <span class="date">December 2024</span> <br/>
+<a href="https://andrejmijakovic.github.io/assets/draft_cb_media_nov2624.pdf"><strong>Monetary policy in the news: communication pass-through and inflation expectations</strong></a> <span class="date">November 2026</span> <br/>
 with <a href="https://www.bis.org/author/fiorella_de_fiore.htm"><em>Fiorella De Fiore</em></a>, <em>Alexis Maurin</em> and <a href="https://sites.google.com/site/damianosandri"><em>Damiano Sandri</em></a> <br/>
 <span class="links"><a href="https://www.bis.org/publ/work1231.pdf">BIS WP</a> · <a href="https://cepr.org/publications/dp19748">CEPR DP</a> · <a href="https://cepr.org/voxeu/columns/monetary-policy-news-fomcs-media-coverage-and-inflation-expectations">VoxEU</a></span>
 <details>
 <summary>Abstract</summary>
-<p>We analyse the media's role in channelling information about the Fed's monetary policy stance to the public. Using LLMs, we find a tight correspondence between FOMC communication and media coverage, although with significant variation over time. The communication pass-through weakened during the ZLB period and improved with the introduction of press conferences, which now exert strong influence on the media. Media coverage affects households' inflation expectations, particularly when inflation is high and volatile, while we do not detect a direct impact of FOMC communication. This underscores the media's crucial function in channelling central banks' communication to the public.</p>
+<p>We analyse how news media convey Federal Reserve communication to the public. Using large language models, we measure monetary policy sentiment in FOMC communications and media articles published by eight major news outlets between 1994 and 2023. We find a tight correspondence between FOMC communication and media coverage, with substantial variation over time. Communication pass-through weakened during the zero-lower-bound period but improved following the introduction of press conferences. Among the Fed’s communication tools, the chair’s answers during press conferences are most strongly associated with media coverage. Linking our sentiment measures to household survey data, we find that hawkish shifts in media sentiment reduce medium-term inflation expectations, particularly when inflation is high and volatile. By contrast, FOMC communication does not appear to have a direct impact. These findings underscore the media’s crucial role in channelling central bank communication to the public.</p>
 </details>
 </div>
 
